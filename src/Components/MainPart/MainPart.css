@@ -1,0 +1,20 @@
+.button{
+    width: 99%;
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    background-color: #fc5603;
+    color: #fff;
+    border: 1px solid #fc5603;
+    border-radius: 2px;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 10px;
+    text-align: center;
+}
+.images{
+    width: 90px;
+    padding: 10px;
+}

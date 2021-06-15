@@ -1,0 +1,7 @@
+.placing{
+    display: flex;
+    align-items: center;
+}
+.placingChild{
+    display: flex;
+}
